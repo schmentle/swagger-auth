@@ -1,4 +1,4 @@
-module swagger-auth
+module github.com/schmentle/swagger-auth
 
 go 1.23
 
